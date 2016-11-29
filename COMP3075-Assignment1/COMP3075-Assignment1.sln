@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "COMP3075-Assignment1", "COMP3075-Assignment1\COMP3075-Assignment1.rptproj", "{CB2500F3-E8B6-45FE-94C3-1E728117B05A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB2500F3-E8B6-45FE-94C3-1E728117B05A}.Debug|Default.ActiveCfg = Debug
+		{CB2500F3-E8B6-45FE-94C3-1E728117B05A}.Debug|Default.Build.0 = Debug
+		{CB2500F3-E8B6-45FE-94C3-1E728117B05A}.Debug|Default.Deploy.0 = Debug
+		{CB2500F3-E8B6-45FE-94C3-1E728117B05A}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{CB2500F3-E8B6-45FE-94C3-1E728117B05A}.DebugLocal|Default.Build.0 = DebugLocal
+		{CB2500F3-E8B6-45FE-94C3-1E728117B05A}.Release|Default.ActiveCfg = Release
+		{CB2500F3-E8B6-45FE-94C3-1E728117B05A}.Release|Default.Build.0 = Release
+		{CB2500F3-E8B6-45FE-94C3-1E728117B05A}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
